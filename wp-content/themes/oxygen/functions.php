@@ -8,6 +8,11 @@
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
 
+// TODO: check if oxygen can be use as parent theme. if so: create rote-hose child theme and revert oxygen theme
+// 'include' rote-hose child theme
+require_once( get_template_directory() . '/../rote-hose/functions.php' );
+
+
 /* Load the core theme framework. */
 require_once( trailingslashit( get_template_directory() ) . 'library/hybrid.php' );
 $theme = new Hybrid();
