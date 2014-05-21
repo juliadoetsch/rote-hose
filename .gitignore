@@ -2,3 +2,5 @@ wp-config.php
 delink-admin
 logs
 wp-content/uploads
+.idea
+wp-content/plugins/si-captcha-for-wordpress/captcha/cache/*
