@@ -20,7 +20,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 
 
-    <link rel="shortcut icon" type="image/x-icon" href="http://www.rote-hose.org/wp-includes/images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/wp-includes/images/favicon.ico">
 <!--
 
     <?php if ( hybrid_get_setting( 'oxygen_favicon_url' ) ) { ?>
@@ -53,8 +53,8 @@
 	
 			<div id="header">
                 <div class="logo">
-                    <a href="http://www.rote-hose.org/" title="Rote Hose">
-                        <img id="header-image" width="155" height="155" src="http://www.rote-hose.org/wp-includes/images/RoteHose.png" alt="">
+                    <a href="/" title="Rote Hose">
+                        <img id="header-image" width="155" height="155" src="/wp-includes/images/RoteHose.png" alt="">
                     </a>
                 </div>
 
