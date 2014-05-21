@@ -3,39 +3,21 @@ Contributors: e-mailit
 Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer, links, admin, vkontakte
 
 Requires at least: 2.9
-Tested up to: 3.8
-Stable tag: 6.4.1
+Tested up to: 3.9.1
+Stable tag: 6.7.4.1
 License: GPLv2 or later
 
-E-MAILiT sharing plugin help people share your posts and/or pages using any service, such as Facebook, Twitter, WhatsApp & Foursquare.
+Increase your content distribution with E-MAILiT Share Buttons by helping visitors share to 60+ services.
 
 == Description == 
 
-> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even remove the button itself (using the Third-party Share Buttons instead) and set your own ''via @Twitter Username''.
+### [E-MAILiT: Sharing Widget, Sharing Button, Sharing Plugin and more](http://www.e-mailit.com/)  
+E-MAILiT Share Buttons can be placed **anywhere** in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or totally **remove** the button (using the third-party Share Buttons instead) even from **certain page(s) or post(s)** too, place your buttons in **both** position - top and bottom of a page/article, get **social stats without registration**, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house **link shortening** service.
 
-<a href="http://www.e-mailit.com">Share Buttons</a> (demo) 
+<a href="http://www.e-mailit.com">Share Buttons</a> demo
 
-* for demo purposes the ad popup, in our website, is open and by default closed in your share plugin. 
-* the WhatsApp service, is currently available only in iOS mobile devices. 
+> 60 Sharing Services / Asynchronous Loading support / Content Delivery Network support / Automatically Localized / Lightweight File Size. 
 
-**Summary of Features**  
-
-* Easy to Install 
-* Increase Content Distribution & Engagement, Ranking & Traffic 
-* Enable Media Solutions 
-* Detailed Analytics 
-* Easy Bookmarking, Sharing & Following 
-* 60 Sharing Services 
-* Less Clutter 
-* Fast & Reliable Performance 
-* Asynchronous Loading Support 
-* Content Delivery Network support 
-* Automatically localized in English, Greek, Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan; Valencian, Central Khmer, Chinese, Croatian, Czech, Danish, Dutch; Flemish, Esperanto, Estonian, Faroese, Finnish, French, Galician, Georgian, German, Gujarati, Haitian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Kurdish, Latin, Latvian, Lithuanian, Luxembourgish, Malay, Maltese, Mongolian, Northern Sami, Norwegian, Pashto, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Sinhala, Slovak, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tamil, Tatar, Telugu, Thai, Tswana, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish 
-* Lightweight File Size 
-* Easily Customizable 
-* Third-party Share Buttons & Floating ShareBars support 
-
-Let sharing work for you, everywhere. Add sharing, following & campaigns to desktop sites and mobile devices. Monetize your content through E-MAILiT's innovation.  
 <a href="http://www.e-mailit.com/widget/login">Want to customize?</a> 
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
@@ -93,16 +75,8 @@ Yes!
 No. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? <a href="http://www.e-mailit.com/widget/login">Create an account</a> with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
 
 <h4>Do you offer Share Stats with the non registered version?</h4>
-No. You need first to create an account and start getting stats about the social sharing activity of your website. The sharing itself works the same either way.
-Own your social data and your metrics. We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because you must have them all in one place. Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
+Yes. Own your social data and your metrics. We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because you must have them all in one place. Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
 
-Follow the simple steps below to start receiving social data for your website:
-<ul>
-<li>Register for Google Analytics at http://www.google.com/analytics and follow their instructions to embed their snippet into your site pages (source code).</li>
-<li>Sign in to your E-MAILiT account. Go to your domain settings and fill in the Google Analytics field, with your unique UA id of your GA account.</li>
-<li>After the domain verification and the share button creation, we log your social events automatically, since E-MAILiT track your Google Analytics UA id.</li>
-<li>In your Google Analytics reports, you can find the E-MAILiT social networking/sharing trend under: Content > Events > Overview > E-MAILiT</li>
-</ul>
 Available Event Categories & Actions:
 <ul>
 <li>E-MAILiT Button (Open for the menu)</li>
@@ -132,9 +106,9 @@ Paste only the **E-MAILiT_digits**, to the appropriate text box field at your Wo
 
 There is no need to edit any line of code. The whole installation procedure of our plugin, will take place at your WordPress admin control panel. If you want a custom solution, you should create an E-MAILiT account. In that case you must combine the E-MAILiT admin control panel options with your WordPress admin control panel options.
 
-<h4>How do I eliminate the plugin from certain pages?</h4>
+<h4>How do I eliminate/remove the plugin from certain page(s) or post(s)?</h4>
 
-Unfortunately, there is no option in WordPress for something like this. There is no an automated solution to delete locally and in certain pages, the share button code. Also, if you choose to auto-install our plugin you can't edit the html source code of your wp pages, to delete our code in certain pages. You can do the opposite, though, if you are familiar editing html and javascript code. Try to put in your preferred pages our share button code, manually.
+When editing a post or page, you can check the "E-MAILiT" option in "screen options" to enable E-MAILiT remove meta box.
 
 <h4>How do I activate / de-activate your plugin?</h4>
 
@@ -174,11 +148,51 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 </ul>
 
 == Screenshots ==
-01. Plugin options (a)
-02. Plugin options (b)
-03. Plugin options (c)
+01. The Google Analytics dashboard
+02. The Google Analytics dashboard
+03. The settings interface
 
 == Changelog ==
+= 6.7.4.1 =
+* Bug Fixes.
+= 6.7.4 =
+* Minor bug fixes in Facebook's sharing functionality.
+= 6.7.3 =
+* UX changes in E-MAILiT account control panel.
+= 6.7.2 =
+* Launch of our new E-MAILiT website homepage!
+= 6.7.1 =
+* Backend E-MAILiT Share Desktop Version: Coding modifications.
+= 6.7 =
+* WordPress 3.9 compatibility.
+= 6.6.1 =
+* Bug Fixes.
+= 6.6 =
+* WordPress 3.8.2 compatibility.
+= 6.5.3 =
+* Bug Fixes.
+= 6.5.2 =
+* UX changes in E-MAILiT account control panel.
+* Minor bug fixes.
+= 6.5.1 =
+* E-MAILiT's innovative Advertising notice, can be hidden.
+= 6.5 =
+* Eliminate/remove the plugin from certain page(s) or post(s).
+= 6.4.5 =
+* Remove Bebo.
+* Remove Netlog.
+* Add Kindle It.
+* Add Mendeley.
+= 6.4.4 =
+* Without register, E-MAILiT allow you track how visitors are sharing and what content is being shared and driving 
+traffic back to your site. View E-MAILiT social share data in your Google Analytics dashboard you already use.
+* Update FAQ.
+= 6.4.3 =
+* Place your buttons in both position (top and bottom of a page/article etc.).
+* Frontend WordPress admin panel: UX interface re-design.
+* Backend WordPress admin panel: Coding modifications.
+= 6.4.2 =
+* Several small bug fixes and improvements.
 = 6.4.1 =
 * Minor bug fixes.
 * Update FAQ (Q: Facebook Share Button seems to show an incorrect number! Why?).
