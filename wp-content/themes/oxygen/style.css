@@ -987,12 +987,13 @@ input[type="submit"]:hover { cursor: pointer }
 .byline-cat a:hover { color: #fff; }
 .read-more, .read-more:visited {
 	position: absolute;
-	top: 113px;
+	top: 115px;
 	right: 0;
 	z-index: 10;
 	color: #fff;
 	background: #A00000;
-	padding: .1em .8em;
+	padding: 2px .8em 0;
+    height: 23px;
 	font-size: 0.9166666666666667em;
 	display: none;
 }
