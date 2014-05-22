@@ -20,7 +20,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 
 
-    <link rel="shortcut icon" type="image/x-icon" href="/wp-includes/images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <!--
 
     <?php if ( hybrid_get_setting( 'oxygen_favicon_url' ) ) { ?>
