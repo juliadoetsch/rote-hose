@@ -1619,3 +1619,17 @@ input[type="submit"]:hover { cursor: pointer }
 .footer_links {
     float: right;
 }
+
+
+/* recent comments widget */
+.recentcomments {
+    color: #555;
+    line-height: 1.75em;
+}
+    .sidebar .widget ul li.recentcomments a {
+        color: #a00000;
+    }
+        .sidebar .widget ul li.recentcomments a:hover {
+            color: black;
+            border-bottom: 1px solid #a00000;
+        }
