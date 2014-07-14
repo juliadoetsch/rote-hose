@@ -8,8 +8,9 @@
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
 
-// TODO: check if oxygen can be use as parent theme. if so: create rote-hose child theme and revert oxygen theme
-// 'include' rote-hose child theme
+// TODO: check if oxygen can be used as parent theme.
+// if so: create rote-hose child theme and revert oxygen theme to allow updating
+// 'include' rote-hose child theme manually for now
 require_once( get_template_directory() . '/../rote-hose/functions.php' );
 
 
