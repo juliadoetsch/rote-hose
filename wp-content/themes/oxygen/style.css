@@ -1633,3 +1633,15 @@ input[type="submit"]:hover { cursor: pointer }
             color: black;
             border-bottom: 1px solid #a00000;
         }
+        
+/* rss widget */
+.widget_rss {
+	margin-bottom: .5em;
+}
+.widget_rss .widget-title {
+	margin-bottom: .5em;
+}
+
+.rsswidget {
+	line-height: 1.75em;
+}
