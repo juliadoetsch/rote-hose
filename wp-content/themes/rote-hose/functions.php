@@ -17,5 +17,8 @@ function rote_hose_setup() {
     // remove additional identifiers for security
     remove_action('wp_head', 'wp_generator');
 
-    add_action('wp_footer', 'add_ga_snippet');
+    // show google analytics for non-maintainers
+    if ( !current_user_can('edit_pages') ) {
+        add_action('wp_footer', 'add_ga_snippet');
+    }
 }
