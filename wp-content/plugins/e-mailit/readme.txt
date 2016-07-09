@@ -4,10 +4,10 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.8.3.2
+Stable tag: 6.8.3.3
 License: GPLv2 or later  
 
-One button quick sharing to over 130 services by Greek based social sharing platform.
+The simple way to add one button sharing to over 130 services.
 
 == Description == 
 
@@ -162,11 +162,16 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 </ul>
 
 == Screenshots ==
-01. The Google Analytics dashboard
-02. The Google Analytics dashboard
-03. The settings interface
+01. The settings interface
+02. 3rd party share counter buttons
+03. Automatic Google Analytics integration for social sharing metrics, without register
+04. Share menu that appears when your visitors use the share button
+05. The Google Analytics dashboard
+06. The Google Analytics dashboard
 
 == Changelog ==
+= 6.8.3.3 =
+* 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo): button text has been optimized and localized with automatic detection of the browser.
 = 6.8.3.2 =
 * Other plugin conflicts: Resolved.
 = 6.8.3.1 =
